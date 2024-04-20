@@ -60,3 +60,4 @@ class Television:
     def __str__(self):
         return f'Power = {self.__status}, Channel = {self.__channel}, Volume = {self.get_volume()}'
 
+#hello my name is nathan how is your day going
